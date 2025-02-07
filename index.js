@@ -22,7 +22,6 @@ const courses = [
         description: 'Deep dive into JavaScript and its frameworks.',
         credits: 4
     },
-    // Add more courses as needed
 {
     courseID: 3,
     title: 'Data Structures and Algorithms',
